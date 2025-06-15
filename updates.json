@@ -1,60 +1,10 @@
 {
-    "version": "v1.1",
-    "files": [
-        {
-            "path": "splash.txt",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/splash.txt",
-            "sha256": "864290d6808983e17ea5a69fa2df821264a372b6302198d3fab4516f940ca590"
-        },
-        {
-            "path": "splash.wav",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/splash.wav",
-            "sha256": "b21de3390de742e6cb77eecece1e94e072b0eb505a4f570ffd8243d8da5e7447"
-        },
-        {
-            "path": "version.txt",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/version.txt",
-            "sha256": "f72484884faae8b33a69f5598135e9bf6da9bddf7ddded3a60662c69ca560801"
-        },
-        {
-            "path": "SteamShift.py",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/SteamShift.py",
-            "sha256": "344d592bb02ba5f933319792d614d2484a271f52beca447537e9c30e55a844b2"
-        },
-        {
-            "path": "update_manager.py",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/update_manager.py",
-            "sha256": "5229d561f44b60746a66993c4ec32bdab796b6b080eec463dfa4aa68c72664d9"
-        },
-        {
-            "path": "installer.iss",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/installer.iss",
-            "sha256": "78da98e1596ee3830f9e0d6d2ad860d402c9d4e2ad62d72f561fd95265a4beeb"
-        },
-        {
-            "path": "app.bmp",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/app.bmp",
-            "sha256": "b0b60d0fd220c79b22063b80cd71c23b4d1a5e996f8a8db8c34d6b66ab4b7cc2"
-        },
-        {
-            "path": "app.ico",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/app.ico",
-            "sha256": "33bfd657401cd1ffa2a8e7d5434c39bb9a2a8bcb10e9431435f1afbc9a419022"
-        },
-        {
-            "path": "terms_ar.txt",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/terms_ar.txt",
-            "sha256": "33b2b9d7878d9a5e8ffeb12e77f3143a98de2585c77004f5665a3dc51b31957a"
-        },
-        {
-            "path": "terms_en.txt",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/terms_en.txt",
-            "sha256": "4033934b7c1366eaebde659657dd5da28d7b879f9c6ea7a0268ea5b9418c175e"
-        },
-        {
-            "path": "license.txt",
-            "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/license.txt",
-            "sha256": "0ea6d95f933158902ec4e58314783e4b3ae51662c93f473a0dd66e6ce051d579"
-        }
-    ]
+  "version": "v1.1",
+  "files": [
+    {
+      "path": "SteamShift.zip",
+      "url": "https://raw.githubusercontent.com/SA-94/SteamShift/main/SteamShift.zip",
+      "sha256": "PUT_YOUR_ZIP_HASH_HERE"
+    }
+  ]
 }
